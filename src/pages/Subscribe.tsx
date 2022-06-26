@@ -70,7 +70,7 @@ export function Subscribe() {
           </form>
         </div>
       </div>
-      <img src="/src/assets/code-mockup.png" alt="" className="mt-10" />
+      <img src="https://github.com/mauricio094/ignite-lab-react/blob/main/src/assets/code-mockup.png?raw=true" alt="" className="mt-10" />
     </div>
   );
 }
